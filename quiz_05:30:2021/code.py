@@ -27,5 +27,5 @@ s = ','.join(headers) + '\n'
 for d in l:
     s += ','.join(d.values()) + '\n'
 
-with open('data.csv', 'w') as file:
+with open('output.csv', 'w') as file:
     file.write(s)

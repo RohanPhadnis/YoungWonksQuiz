@@ -1,5 +1,0 @@
-name,pay,tax,total
-Steven,5000
-Julian,7000
-Richard,8000
-Vishal,6000
