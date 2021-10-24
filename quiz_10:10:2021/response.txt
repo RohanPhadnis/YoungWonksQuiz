@@ -1,0 +1,22 @@
+1. A data type is a structure that data can have. A data type has attributes and methods that control the properties and behavior of its objects.
+
+
+
+2. Python has many built-in data types.
+object() -> the most basic data type
+int() -> an integer
+bool() -> a true/false boolean object
+float() -> a floating point
+str() -> a string literal
+list() -> an array* of elements
+dict() -> similar to a JS object. stores key-value pairs
+open() -> stores file objects
+tuple() -> an immutable, iterable datatype
+set() -> another iterable datatype
+range() -> defines a spectrum of integer values
+
+
+
+3.
+type(<obj>) -> returns the class of an object
+isinstance(<obj>, <class>) -> returns true if the specified object is an instance of the specified class
